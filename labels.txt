@@ -1,0 +1,8 @@
+0 Aluvial
+1 Andosol
+2 Entisol
+3 Humus
+4 Inceptisol
+5 Laterit
+6 Kapur
+7 Pasir
